@@ -6,16 +6,16 @@ I've dedicated this first week to familiarize myself with JavaScript. I've follo
 
 Besides, I've started working with Kibotics. Especially, I've focused on the Pibot follows-lines. The aim of this exercise is to achive the Pibot follows a black line. In order to do this, the results obtained by the infrared sensors of the robot will be analysed to know where is the black line.
 
-![PiBot image](https://raw.githubusercontent.com/RoboticsLabURJC/2019-tfg-natalia-monforte/master/docs/sigue_lineas.png
+![PiBot image](https://raw.githubusercontent.com/RoboticsLabURJC/2019-tfg-natalia-monforte/docs/to/sigue_lineas.png
 
 The following values are obtained from the reading of the infrared sensors:
 
-![IR values](https://raw.githubusercontent.com/RoboticsLabURJC/2019-tfg-natalia-monforte/master/docs/IR_pibot.png
+![IR values](https://raw.githubusercontent.com/RoboticsLabURJC/2019-tfg-natalia-monforte/docs/to/IR_pibot.png
 
 Using the following functions you must achieve the purpose of the exercise:
 
-![IR values 1](https://raw.githubusercontent.com/RoboticsLabURJC/2019-tfg-natalia-monforte/master/docs/funciones_pibot.png
-![IR values 2](https://raw.githubusercontent.com/RoboticsLabURJC/2019-tfg-natalia-monforte/master/docs/funcion_parar_pibot.png
+![IR values 1](https://raw.githubusercontent.com/RoboticsLabURJC/2019-tfg-natalia-monforte/docs/to/funciones_pibot.png
+![IR values 2](https://raw.githubusercontent.com/RoboticsLabURJC/2019-tfg-natalia-monforte/docs/to/funcion_parar_pibot.png
 
 
 Finally, this is my code to solve the exercise:
