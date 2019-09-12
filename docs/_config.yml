@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air"
 
 # Site Settings
 #locale                   : "en-US"
-title                    : "Robotics Lab URJC"
+title                    : "My blog: robotics education with Kibotics"
 title_separator          : "-"
 subtitle                 : Programming Robot Intelligence
 name                     : "JdeRobot"
 description              : "Programming Robot Intelligence"
-url                      : http://jderobot.github.io
+url                      : https://roboticslaburjc.github.io/2019-tfg-natalia-monforte/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : JdeRobot
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -122,24 +122,18 @@ analytics:
 # PROFILE
 # Site Author
 author:
-  name             : "Nacho Arranz"
+  name             : "Natalia Monforte Rodríguez"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Site for Master Thesis"
+  bio              : "Site for TFG"
   location         : "Madrid"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: n.arranz.agueda@gmail.com
-    - label: "About Me"
-      icon: "fas fa-fw fa-link"
-      url: "https://igarag.github.io/online-cv/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/i__arranz"
+      url: nataliiamr7@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/igarag/2019-tfm-ignacio-arranz"
+      url: "https://github.com/nataliamr7/2019-tfg-natalia-monforte"
     #- label: "Youtube"
     #  icon: "fab fa-fw fa-youtube"
     #  url: "https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ"
