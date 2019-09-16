@@ -8,11 +8,11 @@ header:
     #- label: "<i class='fas fa-download'></i> Install now"
     #  url: "/installation/"
 excerpt: 
-  Write your doc title here
+   Robotics education with Kibotics 
 feature_row:
   - image_path: /assets/images/cover/logbook.jpg
-    alt: "Logbook"
-    title: "Logbook"
+    alt: "LogBook"
+    title: "My blog"
     excerpt: "Goals, progress, problems and solutions achieved during development"
     url: "/logbook/"
     btn_class: "btn--primary"
@@ -40,12 +40,7 @@ youTube_id: ID7qaEcIu4k
 
 Hello, everybody.
 
-You can write an introduction about the work you are going to do, links, something about yourself, etc.
+Welcome to my TFG's blog! Here, I will explain my progress during the completion of my end-of-degree work. 
 
-In the `README.md` file at the root of the project are the steps to replicate the Minimal mistakes template on your local machine. This way you don't need to upload it to GitHub to be represented until it's ready.
+I hope you enjoy it! 
 
-Uploading content to GitHub automatically displays your documentation in the link with a structure of the type:
-
-```
-https://github_user_name.github.io/repository_name/
-```
